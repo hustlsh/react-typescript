@@ -1,0 +1,40 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "react-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hustlsh/react-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hustlsh/react-typescript/issues"
+  },
+  "homepage": "https://github.com/hustlsh/react-typescript#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5",
+    "@babel/register": "^7.0.0",
+    "@types/react": "^16.8.3",
+    "@types/react-dom": "^16.8.2",
+    "express": "^4.16.4",
+    "express-react-views": "^0.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "tslint": "^5.13.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3"
+  }
+}
